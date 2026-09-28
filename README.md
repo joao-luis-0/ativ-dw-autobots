@@ -12,7 +12,7 @@ Microsserviço em Java com Spring Boot para o cadastro de clientes de lojas de m
 
 ## Entidades
 
-| Entidade | Campos |
+| Entidade |
 |---|---|
 | `Cliente`|
 | `Documento` |
